@@ -4,9 +4,6 @@
 #block of code is intended to do
 #Enjoy
 
-# Run this app (with "live" URL bookmarking) to make sure that the sidebar state
-# (collapsed/expanded state of the sidebar itself; selected menuItem and; if
-# applicable, the expanded menuItem)
 
 #<block title="install packages">
 

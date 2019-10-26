@@ -26,4 +26,5 @@ Use the sidebar through the different tabs of the dashboard
 
 ### Tips
 * Check [Screenshots.pdf](https://github.com/Hera94/Market-Basket-Analysis-Instacart/blob/master/Screenshots.pdf) for screenshots of the dashboard
+* if the libraries used are not installed, uncomment the code for installing those packages.
 * It is recommended to set the default browser to Google Chrome and once you run the app, click on "Open in Browser".

@@ -7,11 +7,6 @@ analytics implements an Apriori Algorithm with the flexibility of changing the a
 * Download the zip folder and unzip
 * Open Git Bash and run the following command lines 
 ```
-$ cd LINK TO THE DIRECTORY
-example:
-$ cd Desktop/Market-Basket-Analysis-Instacart.git
-$ git lfs install 
-$ git lfs pull
 
 ```
 

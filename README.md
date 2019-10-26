@@ -14,8 +14,8 @@ $ git clone https://github.com/Hera94/Market-Basket-Analysis-Instacart
 
 ### Prerequisites
 * Install R and R Studio.
-  a helpful link: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
-* Download and Install Git Bash
+  A helpful link: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+* Download and Install Git Bash (for windows users)
 
 ### User Manual
 Use the sidebar through the different tabs of the dashboard

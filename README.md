@@ -13,3 +13,7 @@ Use the sidebar through the different tabs of the dashboard
 * Tables - this tab helps to take a glance at the data of each dataset.
 * Descriptive Data Analytics- this tab has four subtabs representing descriptive graphs of the dataset.
 * Prescriptive Data Analytics- this tab implements a Market Basket Analysis. The Apriori algorithm is made interactive as the user has controls to change the parameters of the algorithm. Also, the user can choose if he wants to do the Apriori per product, per Aisle, or per Department. The user will see the marketing insights, Association rule scatterplots, association rule graph and association rules.
+
+### Tips
+* Check Screenshots.pdf for screenshots of the Dashboard
+* It is recommended to set the default browser to Google Chrome and once you run the app, click on "Open in Browser".

@@ -3,9 +3,22 @@ This project implements a dashboard using R Shiny Dashboard Library. The dasboar
 the user to specify where the data is found that will be used to produce Descriptive and Prescriptive Data Analytics. The prescriptive data 
 analytics implements an Apriori Algorithm with the flexibility of changing the algorithm parameters through the dashboard.
 
+### Getting Started
+* Download the zip folder and unzip
+* Open Git Bash and run the following command lines 
+```
+$ cd LINK TO THE DIRECTORY
+example:
+$ cd Desktop/Market-Basket-Analysis-Instacart.git
+$ git lfs install 
+$ git lfs pull
+
+```
+
 ### Prerequisites
-Install R and R Studio.
-a helpful link: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+* Install R and R Studio.
+  a helpful link: https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+* Download and Install Git Bash
 
 ### User Manual
 Use the sidebar through the different tabs of the dashboard
@@ -15,5 +28,5 @@ Use the sidebar through the different tabs of the dashboard
 * Prescriptive Data Analytics- this tab implements a Market Basket Analysis. The Apriori algorithm is made interactive as the user has controls to change the parameters of the algorithm. Also, the user can choose if he wants to do the Apriori per product, per Aisle, or per Department. The user will see the marketing insights, Association rule scatterplots, association rule graph and association rules.
 
 ### Tips
-* Check Screenshots.pdf for screenshots of the Dashboard
+* Check [Screenshots.pdf](https://github.com/Hera94/Market-Basket-Analysis-Instacart/blob/master/Screenshots.pdf) for screenshots of the dashboard
 * It is recommended to set the default browser to Google Chrome and once you run the app, click on "Open in Browser".

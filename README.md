@@ -4,10 +4,13 @@ the user to specify where the data is found that will be used to produce Descrip
 analytics implements an Apriori Algorithm with the flexibility of changing the algorithm parameters through the dashboard.
 
 ### Getting Started
-* Download the zip folder and unzip
-* Open Git Bash and run the following command lines 
-```
+* To clone (download the repository), open Git Bash and run the following commands:
 
+```
+$ cd DIRECTORY
+example:
+$ cd Desktop
+$ git clone https://github.com/Hera94/Market-Basket-Analysis-Instacart
 ```
 
 ### Prerequisites
